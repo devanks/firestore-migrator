@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: firestore-migrator
+  cloud:
+    gcp:
+      project-id: solarman-smartthings
+      firestore:
+        enabled: true
